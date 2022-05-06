@@ -1,0 +1,1 @@
+*/10 * * * * /home/js4943/test.sh &> /home/js4943/test.log
